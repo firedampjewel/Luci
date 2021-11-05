@@ -584,7 +584,7 @@ Global css End
 
 
   footer{}
-  .fonts{margin-bottom: 1rem;}
+  .fonts{margin-bottom: .5rem;}
   .fonts ul{
     justify-content: center;
 }
